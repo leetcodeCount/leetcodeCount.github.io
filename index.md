@@ -1,5 +1,5 @@
 ## Counting
-#  SJ, ZML, ZLJ
+###  SJ, ZML, ZLJ
 
 | Name  | Date  | Resolved |
 | :------------: |:---------------:| :-----: |
