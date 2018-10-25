@@ -113,4 +113,5 @@
 | SJ | 2018-8-24  | 503[m] | 1 |  |
 | ZML | 2018-8-31  | 191[e], 503[m] | 0 | quiting 3months 9、10、11 |
 | SJ | 2018-8-31  | 334[m] | 0 | quiting 3months 9、10、11 |
-| ZML | 2018-10-26  | 309[m] | -1 |  |
+| ZML | 2018-10-26  | 309[m] | -1 | resume ahead of time |
+| SJ | 2018-10-26  | 677[m] | -1 | resume ahead of time |
