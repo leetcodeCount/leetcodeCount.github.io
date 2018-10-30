@@ -115,3 +115,4 @@
 | SJ | 2018-8-31  | 334[m] | 0 | quiting 3months 9、10、11 |
 | ZML | 2018-10-26  | 309[m], 121[e] | 0 | resume ahead of time |
 | SJ | 2018-10-26  | 677[m], 69[3] | 0 | resume ahead of time |
+| SJ | 2018-11-2  | 692[m] | -1 |  |
